@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+}
+
+body {
+    background-color: #e5e5e5;
+}
+
+h1 {
+    background-color: #00669F;
+    padding: 28px 868px 26px 28px;
+    font-size: 40px;
+    font-weight: 400px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+h4 {
+    background-color: #1cd1b0;
+    padding: 10px 886px 10px 27px;
+}
+
+.heroes{
+    position: relative;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
+    .heroe{
+        position: relative;
+        display: inline-flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        height: 529px;
+        width: 300px;
+        margin: 154px 30px 203px 32px;
+        padding: 40px;
+        background-color: #f3f3f3;
+        border-radius: 16px 16px 0px 0px;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+        .backgroundHarley{
+            background-image: url(../img/fondoharley.png);
+        }
+        .backgroundBatman{
+            background-image: url(../img/fondobatman.png);
+        }
+
+            .imagen {
+                position: absolute;
+                top: 180px;
+                width: 122px;
+                height: 122px;
+                border-radius: 100px;
+                align-content: center;
+            }
+
+            .corazon {
+                position: absolute;
+                top: 6.25%;
+                left: 6.25%;
+            }
+
+            p {
+                position: absolute;
+                bottom: 104px;
+                width: 267px;
+                height: 113px;
+                font-size: 16px;
+                line-height: 19px;
+                font-weight: 400px;
+                text-align: center;
+            }
+
+            h2 {
+                position: absolute;
+                bottom: 227px;
+                font-size: 30px;
+                line-height: 35px;
+                text-align: center;
+            }
+
+            a {
+                position: absolute;
+                background-color: #00669F;
+                padding: 15px 37px 15px 37px;
+                bottom: 18.48px;
+                color: white;
+            }
+
+footer {
+    font-weight: 400px;
+    font-size: 16px;
+    color: #fff9f9;
+    line-height: 19px;
+    background-color: #00669F;
+    padding: 16px;
+    bottom: 0;
+    position: fixed;
+    width: 100vw;
+}
