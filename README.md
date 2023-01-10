@@ -6,4 +6,4 @@ Se implemento conocimientos adquiridos:
 - Implementacion de CSS para estilos.
 - Visualizacion en mobile, tablet y desktop.
 
-![image](https://user-images.githubusercontent.com/116467058/211614371-d26d4001-d730-4f6a-86c6-2ba5cddef7d8.png)
+![image](https://user-images.githubusercontent.com/116467058/211614858-b17fb96d-2730-41c4-91b5-92d70a303a28.png)
