@@ -8,6 +8,6 @@ Se implementaron los siguientes conocimientos adquiridos:
 - Creacion de la estructura basica y semantica HTML.
 - Utilizacion de etiquetas de HTML.
 - Colocar los estitos en CSS.
-- Implementacion del Flexbox en el layout.
+- Implementacion del Flexbox en las cards.
 
 ![image](https://user-images.githubusercontent.com/116467058/211615882-ca9379a5-7ca6-4ca0-a70f-7a8d4539af6f.png)
