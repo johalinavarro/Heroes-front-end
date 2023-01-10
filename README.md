@@ -4,7 +4,6 @@ Contiene actividad realizada con aprendizaje obtenido en la Materia Front End I 
 Se implemento conocimientos adquiridos:
 - Manejo de figma donde se detallaba el objetivo del proyecto y la visualizacion del mismo.
 - Realizacion del HTML.
-- Implementacion de CSS para estilos.
-- Visualizacion en mobile, tablet y desktop.
+- Implementacion de estilos en CSS
 
-![image](https://user-images.githubusercontent.com/116467058/211614858-b17fb96d-2730-41c4-91b5-92d70a303a28.png)
+![image](https://user-images.githubusercontent.com/116467058/211615882-ca9379a5-7ca6-4ca0-a70f-7a8d4539af6f.png)
