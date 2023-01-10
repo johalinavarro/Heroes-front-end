@@ -1,5 +1,5 @@
 # Heroes-front-end
-Contiene actividad realizada con aprendizaje obtenido en la Materia Front End I disctada por el profesor Victor Calabro en el Curso Certified Tech Developer de Digital House.
+Contiene actividad realizada con aprendizaje obtenido en la Materia Front End I dictada por el profesor Victor Calabro en el Curso Certified Tech Developer de Digital House.
 
 Se implemento conocimientos adquiridos:
 - Manejo de figma donde se detallaba el objetivo del proyecto y la visualizacion del mismo.
